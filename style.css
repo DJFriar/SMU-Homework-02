@@ -10,13 +10,13 @@ body {
   color: #ff6700;
 }
 
-#portfolio .img {
+#aboutMe .card-body .img {
     width: 330px;
     height: 252px;
     padding: 0px 16px 0px 0px;
 }
 
-#aboutMe .img {
+#portfolio .card-body .img {
     width: 330px;
     height: 252px;
     padding: 16px;
