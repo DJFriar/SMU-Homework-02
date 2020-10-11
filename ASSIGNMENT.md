@@ -18,7 +18,7 @@ Semantic Refactoring Homework
 
 - [ ] Each page must have valid and correct HTML. (use a validation service)
 
-- [ ] Must contain your personalized information. (bio, name, images, links to social media, etc.)
+- [X] Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
 - [X] Must properly utilize Bootstrap components and grid system.
 
