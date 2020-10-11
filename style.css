@@ -22,6 +22,11 @@ body {
     padding: 16px;
 }
 
+.btn {
+    background-color: #ff6700;
+    border: 0;
+}
+
 .container {
     padding: 24px;
     float: left;
