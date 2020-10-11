@@ -4,24 +4,24 @@ Semantic Refactoring Homework
 
 ## Minimum Requirements
 
-- [ ] Functional, deployed application
+- [X] Functional, deployed application
 
 - [ ] GitHub repository with README describing the project
 
-- [ ] Navbar must be consistent on each page.
+- [X] Navbar must be consistent on each page.
 
-- [ ] Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+- [X] Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
 
-- [ ] All links must work.
+- [X] All links must work.
 
-- [ ] Must use semantic html.
+- [X] Must use semantic html.
 
 - [ ] Each page must have valid and correct HTML. (use a validation service)
 
 - [ ] Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
-- [ ] Must properly utilize Bootstrap components and grid system.
+- [X] Must properly utilize Bootstrap components and grid system.
 
 ## Bonus
 
-- [ ] Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
+- [X] Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
