@@ -4,7 +4,7 @@ Responsive Portfolio
 
 ## Description
 
-Our second homework assignment was to create a mobile responsive portfolio. You can skip straight to the final product by clicking [here](./index.html).
+Our second homework assignment was to create a mobile responsive portfolio. You can skip straight to the final product by clicking [here](https://djfriar.github.io/SMU-Homework-02/).
 
 For full details on the assignment, please [view the assignment](ASSIGNMENT.md).
 
