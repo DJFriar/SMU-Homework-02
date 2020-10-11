@@ -1,6 +1,6 @@
-# SMU-Homework-02
+# SMU-Homework-02-Responsive-CSS-Bootstrap
 
-Responsive Portfolio
+Responsive Portfolio example using Bootstrap and CSS.
 
 ## Description
 
