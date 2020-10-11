@@ -15,8 +15,8 @@ This site is a standard HTML and CSS pair. To install you can clone the repo and
 ## Usage
 
 This site is an example of a mobile responsive site that highlights the use of navbar, sticky footer, and responsive grid layouts.
-![Screenshot of the mobile size layout](./assets/images/MobileSizeScreenshot.png)
-![Screenshot of the full size layout](./assets/images/FullSizeScreenshot.png)
+![Screenshot of the mobile size layout](./images/MobileSizeScreenshot.png)
+![Screenshot of the full size layout](./images/FullSizeScreenshot.png)
 
 ## Credits
 
